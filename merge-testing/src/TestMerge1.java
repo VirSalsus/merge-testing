@@ -7,7 +7,6 @@ public class TestMerge1 {
 		int b = 2;
 		
 		System.out.println("Fabi war auch hier");
-		
 	}
 
 }
