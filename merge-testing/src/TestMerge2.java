@@ -8,8 +8,11 @@ public class TestMerge2 {
 	
 		
 		// 1
+<<<<<<< HEAD
 		// asdfasdhfakjshdfhasdkjkjfh
 		//asdfasdsasdfa sdasdf asdf asf 
+=======
+>>>>>>> branch 'main' of https://github.com/VirSalsus/merge-testing.git
 		// test
 		// 3
 
