@@ -11,8 +11,7 @@ public class TestMerge1 {
 		System.out.println("asdfasdf");
 		System.out.println("Robin");
 		System.out.println("de madidis");
-		
-		
+		System.out.println("finish");
 		
 		
 	}
