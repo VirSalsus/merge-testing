@@ -10,6 +10,7 @@ public class TestMerge1 {
 		System.out.println("Batman");
 		System.out.println("asdfasdf");
 		System.out.println("Robin");
+		System.out.println("de madidis");
 		
 		
 		
