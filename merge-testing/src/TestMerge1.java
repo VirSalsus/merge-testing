@@ -6,7 +6,7 @@ public class TestMerge1 {
 		int a = 1;
 		int b = 2;
 		
-		System.out.println("Maxi war hier");
+		System.out.println("Fabi war auch hier");
 
 	}
 
