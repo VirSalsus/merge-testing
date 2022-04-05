@@ -8,6 +8,7 @@ public class TestMerge1 {
 		
 		System.out.println("Fabi war auch hier");
 		System.out.println("merge");
+		System.out.println("burger");
 		System.out.println("sauce");
 		
 		
